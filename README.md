@@ -1,5 +1,12 @@
+<div style="display: flex; gap: 20px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png" alt="" width="200" height="200">
+        <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="" width="200" height="200">
+        <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="" width="200" height="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="" width="200" height="200">
+    </div>
+
 ## Hi there 👋 My name is Yash
-<hr>
+
 🚀 Second-Year Computer Science Student @ Chitkara University
 💻 Aspiring Full-Stack Developer & Problem Solver
 
@@ -8,7 +15,8 @@
 🛠️ Skilled in JavaScript, Databases | basic Python, C, C++
 🔍 Love solving real-world problems with technology & innovation
 
-#⚡ Tech Stack & Skills
+<h2>⚡ Tech Stack & Skills</h2>
+
 Frontend: React.js, HTML, CSS, Tailwind CSS, Redux toolkit
 Backend: Node.js, Express.js, MongoDB
 Programming: Java (DSA), Python, C, C++
